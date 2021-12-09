@@ -1,0 +1,33 @@
+.ul{
+    list-style-type: none;
+    display: flex;
+    width: 90%;
+    margin: 50px;
+    padding: 0;
+}
+
+.li{
+    display: block;
+    flex-direction: column;
+    align-items: center;
+    list-style-type: none;
+    width: 50%;
+}
+p{
+    word-wrap: normal;
+}
+.p{
+    padding-left: 100px;
+}
+.bt{
+    background-color: aquamarine;
+    margin-left: 45%;
+    width: 90px;
+    height: 30px;
+    padding-left: 25px;
+    padding-top: 10px;
+}
+img{
+    height: 500px;
+    float: left;
+}
